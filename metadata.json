@@ -1,0 +1,11 @@
+{
+  "name": "Bharat Virtual Moot Court",
+  "description": "Indian Virtual Moot Court Simulation Platform for Indian Law Students, featuring Bharatiya Nyaya Sanhita (BNS 2023), IPC 1860, BNSS, BSA, speech stenography, WebRTC video, and AI Law Clerk in an elegant white & sage green theme.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
